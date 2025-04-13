@@ -139,6 +139,8 @@ MIT License. Use it freely and star it if you love it ⭐
 
 ---
 
+<!-- GitAds-Verify: W1MSIPLLDOCC7V6651QXKW599EW9QOSB -->
+
 ## 🙌 Author
 
 Made with ❤️ by [Prakhar Doneria](https://github.com/prakhardoneria)
