@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="mongo_easy",
-    version="0.1.0",
+    version="0.1.1",
     author="Prakhar Doneria",
     author_email="prakhardoneria3@gmail.com",
     description="A simple and intuitive MongoDB helper library for everyone",
