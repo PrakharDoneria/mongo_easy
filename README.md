@@ -140,6 +140,9 @@ MIT License. Use it freely and star it if you love it ⭐
 ---
 
 <!-- GitAds-Verify: W1MSIPLLDOCC7V6651QXKW599EW9QOSB -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=prakhardoneria/mongo_easy@github)](https://gitads.dev/v1/ad-track?source=prakhardoneria/mongo_easy@github)
+
 
 ## 🙌 Author
 
